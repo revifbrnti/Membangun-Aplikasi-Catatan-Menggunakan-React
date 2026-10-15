@@ -1,5 +1,5 @@
-# Silakan download starter project di atas karena submission ini wajib menggunakan starter project yang disediakan.
---
+# Silakan download starter project di atas.
+
 ## Cara Menjalankan Starter Project
 1. Ekstrak berkas ZIP yang telah diunduh ke folder proyek Anda
 2. Buka terminaldan arahkan ke folder proyek:
